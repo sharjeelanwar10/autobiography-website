@@ -1,4 +1,4 @@
-#Autobiography Website Project!
+Autobiography Website Project!
 
 The website consists of four pages.
 1) home.html (Homepage)
